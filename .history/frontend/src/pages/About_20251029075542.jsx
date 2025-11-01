@@ -16,7 +16,7 @@ const About = () => {
           </p>
           <p>
             GitHub :{' '}
-            <a href="https://github.com/GiraldoNainggolan">
+            <a href="https://github.com/idurar/idurar-erp-crm">
               https://github.com/idurar/idurar-erp-crm
             </a>
           </p>
